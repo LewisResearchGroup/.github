@@ -1,12 +1,8 @@
-## Hi there 👋
+# Lewis Research Group
 
-<!--
 
-**Here are some ideas to get you started:**
+### THE THREE KEY OBJECTIVES OF OUR PROGRAM ARE: 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. TO DEVELOP RAPID DIAGNOSTIC TOOLS FOR INFECTIOUS DISEASES 
+2. FIND NOVEL WAYS TO HARNESS METABOLISM AS A TOOL FOR FIGHTING INFECTIONS 
+3. ELUCIDATE THE ROLE METABOLISM HAS PLAYED IN THE EVOLUTION OF PATHOGENS
