@@ -1,5 +1,7 @@
 # Metabolic analysis of human pathogens
 
+<img src="uc-horz-rgb.jpg">
+
 The three key objectives of our program are:
 1. To develop rapid diagnostic tools for infectious diseases
 2. Find novel ways to harness metabolism as a tool for fighting infections
