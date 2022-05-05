@@ -1,3 +1,5 @@
+<img src="https://images.squarespace-cdn.com/content/v1/5cef3ea582bf54000121ac89/1559329626837-DZI30923WITR029IF5L1/Group+2.jpg">
+
 # Metabolic analysis of human pathogens
 
 The three key objectives of our program are:
