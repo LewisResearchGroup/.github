@@ -1,10 +1,8 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5cef3ea582bf54000121ac89/02d5b2ea-029a-4ff6-98cf-5fb44cd6cf75/IMG_8867.jpg?format=2500w">
 
-# What we do
-
 We harness state-of-the-art analytical technology to unravel the complex host-pathogen dynamics that occur during human infections. 
 
-## THE THREE KEY OBJECTIVES OF OUR PROGRAM ARE: 
+## The three key objectives of our program are: 
 
 1. TO DEVELOP RAPID DIAGNOSTIC TOOLS FOR INFECTIOUS DISEASES 
 2. FIND NOVEL WAYS TO HARNESS METABOLISM AS A TOOL FOR FIGHTING INFECTIONS 
